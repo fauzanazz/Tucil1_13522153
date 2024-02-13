@@ -1,0 +1,22 @@
+# ninja log v5
+12	221	7291895827902637	CyberpunkBP_autogen/timestamp	18195335e4d963ac
+12	221	7291895827902637	CyberpunkBP_autogen/mocs_compilation.cpp	18195335e4d963ac
+12	221	7291895827902637	D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug/CyberpunkBP_autogen/timestamp	18195335e4d963ac
+1342	4082	7291879112286346	CMakeFiles/CyberpunkBP.dir/main.cpp.obj	dda3e405e2bf0544
+12	221	7291895827902637	D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug/CyberpunkBP_autogen/mocs_compilation.cpp	18195335e4d963ac
+1334	4094	7291879112396493	CMakeFiles/CyberpunkBP.dir/CyberpunkBP_autogen/mocs_compilation.cpp.obj	c4f8cd859527300b
+2600	2771	7291895853368275	CyberpunkBP.exe	9793fd93097f665d
+237	2600	7291895851731905	CMakeFiles/CyberpunkBP.dir/gamestart.cpp.obj	16544c2f8deffa6d
+231	2366	7291895849393798	CMakeFiles/CyberpunkBP.dir/mainwindow.cpp.obj	39830727601e1ed9
+49	2056	7293444373984187	CyberpunkBP_autogen/timestamp	18195335e4d963ac
+49	2056	7293444373984187	CyberpunkBP_autogen/mocs_compilation.cpp	18195335e4d963ac
+49	2056	7293444373984187	D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug/CyberpunkBP_autogen/timestamp	18195335e4d963ac
+49	2056	7293444373984187	D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug/CyberpunkBP_autogen/mocs_compilation.cpp	18195335e4d963ac
+2057	2246	7293444375795397	CyberpunkBP_autogen/S5YYZ2ZCNV/qrc_Images.cpp	5a2d057249f90ed9
+2057	2246	7293444375795397	D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug/CyberpunkBP_autogen/S5YYZ2ZCNV/qrc_Images.cpp	5a2d057249f90ed9
+2265	2757	7293444381574167	CMakeFiles/CyberpunkBP.dir/CyberpunkBP_autogen/S5YYZ2ZCNV/qrc_Images.cpp.obj	e8bad5cd8734de09
+2251	4466	7293444398663473	CMakeFiles/CyberpunkBP.dir/main.cpp.obj	dda3e405e2bf0544
+2246	4520	7293444399200008	CMakeFiles/CyberpunkBP.dir/CyberpunkBP_autogen/mocs_compilation.cpp.obj	c4f8cd859527300b
+2255	4948	7293444403482812	CMakeFiles/CyberpunkBP.dir/mainwindow.cpp.obj	39830727601e1ed9
+2260	5392	7293444407913769	CMakeFiles/CyberpunkBP.dir/gamestart.cpp.obj	16544c2f8deffa6d
+5392	5743	7293444411368076	CyberpunkBP.exe	7a0f2ad943c3866e

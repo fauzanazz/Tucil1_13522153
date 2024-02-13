@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug/CyberpunkBP_autogen",
+	"CMAKE_BINARY_DIR" : "D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP",
+	"CMAKE_SOURCE_DIR" : "D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug/CyberpunkBP_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/Resources/Main Screen.png",
+		"D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/Resources/Main Menu.png"
+	],
+	"LOCK_FILE" : "D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug/CMakeFiles/CyberpunkBP_autogen.dir/AutoRcc_Images_S5YYZ2ZCNV_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Images" ],
+	"OUTPUT_CHECKSUM" : "S5YYZ2ZCNV",
+	"OUTPUT_NAME" : "qrc_Images.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/cmake-build-qt-cyberpunk-debug/CMakeFiles/CyberpunkBP_autogen.dir/AutoRcc_Images_S5YYZ2ZCNV_Used.txt",
+	"SOURCE" : "D:/VsCode/CyberpunkBP.7z-20240209T114501Z-001/CyberpunkBP/CyberpunkBP/Resources/Images.qrc",
+	"VERBOSITY" : 0
+}
